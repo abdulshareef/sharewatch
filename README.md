@@ -4,7 +4,7 @@
 
 ShareWatch watches a sensitive folder shared over your network and tells you — instantly and audibly — every time someone opens, reads, copies, modifies, renames, deletes, or encrypts a file in it. Every event is written to a forensic-grade log with the **source IP address, hostname, and username** of the accessing machine.
 
-Built and maintained by [Talfor Cybersecurity & Digital Forensics](https://talfor.com), Bengaluru, India.
+Built and maintained by [Talfor Cybersecurity & Digital Forensics](https://www.talfor.in), Bengaluru, India.
 
 ---
 
