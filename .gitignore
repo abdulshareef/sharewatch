@@ -1,0 +1,8 @@
+# Logs
+*.log
+log.txt
+file_access_logs/
+
+# OS junk
+Thumbs.db
+desktop.ini
